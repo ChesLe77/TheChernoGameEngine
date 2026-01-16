@@ -15,7 +15,7 @@ namespace Hazel {
 
     // 在客户端Sandbox中定义
     // 用指针实现稳定的跨模态接口
-    Application* CreateApplication();
+    Application* CreateApplication();  
 }
 
 
