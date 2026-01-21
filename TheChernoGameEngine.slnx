@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-  </Configurations>
-  <Project Path="Sandbox/Sandbox.vcxproj" Id="1539fc39-98cb-4019-8036-9e64a97eb8d9" />
-  <Project Path="TheChernoGameEngine/TheChernoGameEngine.vcxproj" Id="85f8651b-d033-4187-a0a8-2b2d5b865acd" />
-</Solution>
